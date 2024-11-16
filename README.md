@@ -19,7 +19,7 @@
 - 성균관대학교 청소년 IoT창의 코딩캠프 우수상
 
 ## 활동
-- SweetBird: 웹 개발 대학생 크루 (https://github.com/Sweet-Bird-GitHub)
+- SweetBird: 웹 개발 대학생 크루(초대 회장) (https://github.com/Sweet-Bird-GitHub)
 
 ## 관심사
 - 코드로 수익을 창출하고 이와 관련된 비즈니스 모델에 관심이 있습니다.
